@@ -12,3 +12,5 @@ Things to add:
 - [ ] create text files 
 - [ ] create folders
 - [ ] user customizability (change name of terminal, initialize with custom files)
+- [ ] ability to close, minimize, and expand terminal to full screen 
+- [ ] resize window by stretching it
